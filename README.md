@@ -1,5 +1,5 @@
 # Ariel Dominic Alfonso's Portfolio
-## [Project 1: World Bank funding trends over the past 3 years]()
+## [Project 1: World Bank funding trends over the past 3 years](https://github.com/Alfonsoalik17/World_Banking_Trends)
 
 This is a project that I did in a bootcamp wherein I was tasked to deliver a well-structured presentation that highlights the key trends in World Bank funding over the past three years.
 * Data was provided and compiled in https://iatistandard.org using the "World Bank" filter
